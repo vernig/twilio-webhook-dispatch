@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vernig/twilio-webhook-dispatch"
+  },
+  "homepage": "https://github.com/vernig/twilio-webhook-dispatch",
+  "keywords": [
+    "twilio"
+  ]
 }
